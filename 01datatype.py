@@ -1,3 +1,7 @@
+#搭配教學網址
+#https://www.youtube.com/playlist?list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk
+#https://youtu.be/FMruNSjHOzQ
+
 #數字
 
 2
