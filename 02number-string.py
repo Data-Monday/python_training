@@ -1,3 +1,5 @@
+#搭配教學網址
+#https://youtu.be/bLRa4TZ99aY
 """
 # 數字運算
 #
